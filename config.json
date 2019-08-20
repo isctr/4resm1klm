@@ -1,11 +1,11 @@
 ﻿{
-	"id": "com.aocetinns.4resim",
+	"id": "com.aocetinns.dortresim",
 	"version": "1.0",
 	"name": "4 Resim 1 Kelime",
-	"description": "genckafem",
+	"description": "4 Resim 1 Kelime Oyunu",
 	"author": "genckafem",
 	"email": "genckafem@gmail.com",
-	"website": "",
+	"website": "http://www.biroynaoyun.com",
 	"fullscreen": "true",
 	"useragent": null,
 	"orientation": "portrait",
@@ -22,7 +22,6 @@
 	}],
 	"plugins": [
 		{ "id": "cordova-custom-config", "version": null },
-		{ "id": "cordova-plugin-ad-admob", "version": null },
 		{ "id": "cordova-plugin-file", "version": null },
 		{ "id": "cordova-plugin-statusbar", "version": null },
 		{ "id": "cordova-plugin-whitelist", "version": null },
